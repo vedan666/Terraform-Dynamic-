@@ -34,7 +34,7 @@ To begin using dynamic blocks in Terraform, ensure you have the following prereq
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/dynamic-blocks-terraform.git
+   git clone https://github.com/vedan666/Terraform-Dynamic-.git
    cd dynamic-blocks-terraform
    ```
 
