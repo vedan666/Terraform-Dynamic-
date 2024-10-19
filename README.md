@@ -73,9 +73,4 @@ Contributions are highly encouraged! If you have ideas for improvements, new fea
 ## License
 
 This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
-
-
-### Customization Tips:
-- **Images and Badges**: Add any relevant images, badges, or icons that align with your project theme.
-- **Personal Touch**: You can include a short personal note about your journey with Terraform or why you created this repository.
-- **Links to Resources**: Consider adding links to additional resources or documentation that could help users understand dynamic blocks better.
+better.
